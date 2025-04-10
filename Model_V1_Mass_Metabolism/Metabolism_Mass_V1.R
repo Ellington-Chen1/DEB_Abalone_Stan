@@ -99,4 +99,3 @@ hist(results$log_alpha)
 hist(results$beta, breaks = 100)
 abline(v = mean(results$beta), col = "red")
 hist(results$lambda)
-
